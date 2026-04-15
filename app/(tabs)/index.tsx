@@ -43,7 +43,7 @@ export default function App() {
             params: { id: "claude" }
         }}
       >
-        Claud Subs
+        Claude Subs
       </Link>
     </SafeAreaView>
   );
